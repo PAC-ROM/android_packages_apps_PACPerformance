@@ -36,7 +36,6 @@
   <string name="mhz">MHz</string>
   <string name="kb">kB</string>
   <string name="mb">MB</string>
-  <string name="mv">mV</string>
   <string name="ms">ms</string>
   <string name="fancy_stats">Díszes Statisztika</string>
   <string name="usage">Használat</string>
@@ -62,8 +61,11 @@
   <string name="turn_off_not_possible">Nem lehet kikapcsolni a %d magot</string>
   <string name="parameters">Paraméterek</string>
   <string name="cpu_max_freq">CPU maximum frekvencia</string>
+  <string name="cpu_max_freq_summary">Állítsa be a maximális frekvenciát, ameddig a CPU felpöröghet.</string>
   <string name="cpu_min_freq">CPU minimum frekvencia</string>
+  <string name="cpu_min_freq_summary">Állítsa be a minimális frekvenciát, ameddig a CPU lemehet.</string>
   <string name="cpu_governor">CPU irányító</string>
+  <string name="cpu_governor_summary">A CPU irányító határozza meg, hogyan viselkedik a CPU a változó munkateher alatt. Az irányító módosítása hatással lesz arra, hogyan fog lépkedni a CPU az elérhető frekvenciákon.</string>
   <string name="advanced">Speciális</string>
   <string name="cpu_governor_tunables">CPU irányító hangolhatók</string>
   <string name="cpu_governor_tunables_summary">A különböző konfigurációs elemek, amelyek Iránytó-függőek.</string>
@@ -79,6 +81,7 @@
   <string name="intelliplug_summary">MPDecision helyettesítés, készítette faux123.</string>
   <string name="intelliplug_eco_mode">IntelliPlug Eco mód</string>
   <string name="cpu_voltage">CPU feszültség</string>
+  <string name="apply">Alkamaz</string>
   <string name="gpu">GPU</string>
   <string name="gpu_stats">GPU statisztika</string>
   <string name="gpu_2d_cur_freq">GPU 2D aktuális frekvencia</string>
@@ -102,8 +105,8 @@
   <string name="scheduler_tunable_summary">A különböző konfigurációs elemek, amelyek Ütemező-függőek.</string>
   <string name="read_ahead">Előreolvasás</string>
   <string name="read_ahead_summary">Az előreolvasás értéke a telefon memóriáján.</string>
-  <string name="Internal_read_ahead">Belső tároló előreolvasás</string>
-  <string name="External_read_ahead">Külső tároló előreolvasás</string>
+  <string name="internal_read_ahead">Belső tároló előreolvasás</string>
+  <string name="external_read_ahead">Külső tároló előreolvasás</string>
   <string name="ksm">KSM</string>
   <string name="ksm_stats">KSM Statisztika</string>
   <string name="ksm_full_scans">Teljes vizsgálat</string>

@@ -36,7 +36,6 @@
   <string name="mhz">MHz</string>
   <string name="kb">kB</string>
   <string name="mb">MB</string>
-  <string name="mv">mV</string>
   <string name="ms">ms</string>
   <string name="fancy_stats">花样统计</string>
   <string name="usage">统计</string>
@@ -102,8 +101,6 @@
   <string name="scheduler_tunable_summary">调度程序依赖的各种配置。</string>
   <string name="read_ahead">预读</string>
   <string name="read_ahead_summary">手机内存预读值。</string>
-  <string name="Internal_read_ahead">内部存储预读</string>
-  <string name="External_read_ahead">外部存储预读</string>
   <string name="ksm">KSM</string>
   <string name="ksm_stats">KSM 统计</string>
   <string name="ksm_full_scans">完全扫描</string>

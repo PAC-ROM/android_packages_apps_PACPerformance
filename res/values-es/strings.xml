@@ -38,7 +38,6 @@
   <string name="mhz">MHz</string>
   <string name="kb">KB</string>
   <string name="mb">MB</string>
-  <string name="mv">mV</string>
   <string name="ms">ms</string>
   <string name="fancy_stats">Estadísticas</string>
   <string name="usage">Uso</string>
@@ -64,8 +63,11 @@
   <string name="turn_off_not_possible">No puedes desactivar el núcleo %d</string>
   <string name="parameters">Parámetros</string>
   <string name="cpu_max_freq">Frecuencia máxima de CPU</string>
+  <string name="cpu_max_freq_summary">Establecer la frecuencia máxima de la CPU.</string>
   <string name="cpu_min_freq">Frecuencia mínima de CPU</string>
+  <string name="cpu_min_freq_summary">Establecer la frecuencia mínima de la CPU.</string>
   <string name="cpu_governor">Gobernador de la CPU</string>
+  <string name="cpu_governor_summary">El gobernador de CPU determina la forma en que la CPU se comporta en respuesta a los cambios en la carga de trabajo. Cambiando el gobernador tendrá impacto sobre la CPU escalas a través de los pasos de frecuencia disponibles de la CPU.</string>
   <string name="advanced">Avanzado</string>
   <string name="cpu_governor_tunables">Optimizar gobernador de CPU</string>
   <string name="cpu_governor_tunables_summary">Usted puede ajustar los parámetros de CPU a su gusto</string>
@@ -81,6 +83,7 @@
   <string name="intelliplug_summary">Reemplazo de MPDecisión por faux123.</string>
   <string name="intelliplug_eco_mode">Modo Eco de IntelliPlug</string>
   <string name="cpu_voltage">Voltaje de la CPU</string>
+  <string name="apply">Aplicar</string>
   <string name="gpu">GPU</string>
   <string name="gpu_stats">Estadísticas de la GPU</string>
   <string name="gpu_2d_cur_freq">Frecuencia actual de GPU 2D</string>
@@ -104,8 +107,8 @@
   <string name="scheduler_tunable_summary">Esto permite que usted modifique los valores por defecto, tenga precaución con esto</string>
   <string name="read_ahead">Prelectura</string>
   <string name="read_ahead_summary">El valor Prelectura en la memoria del teléfono</string>
-  <string name="Internal_read_ahead">Prelectura de almacenamiento interno</string>
-  <string name="External_read_ahead">Prelectura de almacenamiento externo</string>
+  <string name="internal_read_ahead">Prelectura de almacenamiento interno</string>
+  <string name="external_read_ahead">Prelectura de almacenamiento externo</string>
   <string name="ksm">Memoria compartida del Kernel (KMS)</string>
   <string name="ksm_stats">Estadísticas de KSM</string>
   <string name="ksm_full_scans">Análisis completo</string>

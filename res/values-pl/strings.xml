@@ -37,7 +37,6 @@
   <string name="mhz">MHz</string>
   <string name="kb">kB</string>
   <string name="mb">MB</string>
-  <string name="mv">mV</string>
   <string name="ms">ms</string>
   <string name="fancy_stats">Statystyki graficzne</string>
   <string name="usage">Użycie</string>
@@ -65,6 +64,7 @@
   <string name="cpu_max_freq">Maks. częstotliwość CPU</string>
   <string name="cpu_min_freq">Min. częstotliwość CPU</string>
   <string name="cpu_governor">Zarządca procesora</string>
+  <string name="cpu_governor_summary">Zarządca CPU określa w jaki sposób procesor ma się zachować w odpowiedzi na zmiany w czasie pracy. Zmiana zarządcy ma wpływ na to, w jaki sposób procesor przechodzi przez różne dostępne częstotliwości.</string>
   <string name="advanced">Zaawansowane</string>
   <string name="cpu_governor_tunables">Konfiguracja zarządcy procesora</string>
   <string name="cpu_governor_tunables_summary">Różne elementy konfiguracji zależne od zarządcy procesora.</string>
@@ -80,6 +80,7 @@
   <string name="intelliplug_summary">Zamiennik MPDecision (autorstwa faux123).</string>
   <string name="intelliplug_eco_mode">Tryb Eco IntelliPlug</string>
   <string name="cpu_voltage">Napięcie CPU</string>
+  <string name="apply">Zastosuj</string>
   <string name="gpu">GPU</string>
   <string name="gpu_stats">Statystyki GPU</string>
   <string name="gpu_2d_cur_freq">Aktualna częstotliwość GPU 2D</string>
@@ -103,8 +104,8 @@
   <string name="scheduler_tunable_summary">Różne elementy konfiguracji zależne od obecnego zarządcy.</string>
   <string name="read_ahead">Odczyt z wyprzedzeniem</string>
   <string name="read_ahead_summary">Prędkość odczytu pamięci telefonu.</string>
-  <string name="Internal_read_ahead">Odczyt pamięci wewnętrznej</string>
-  <string name="External_read_ahead">Odczyt pamięci zewnętrznej</string>
+  <string name="internal_read_ahead">Bufor odczytu wewnętrznej pamięci</string>
+  <string name="external_read_ahead">Bufor odczytu zewnętrznej pamięci</string>
   <string name="ksm">Kernel Samepage Merging</string>
   <string name="ksm_stats">Statystyki KSM</string>
   <string name="ksm_full_scans">Pełne skanowanie</string>

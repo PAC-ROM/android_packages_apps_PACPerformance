@@ -36,7 +36,6 @@
   <string name="mhz">MHz</string>
   <string name="kb">kB</string>
   <string name="mb">MB</string>
-  <string name="mv">mV</string>
   <string name="ms">Ms</string>
   <string name="fancy_stats">Status ficticio</string>
   <string name="usage">Uso</string>
@@ -102,8 +101,6 @@
   <string name="scheduler_tunable_summary">Os vários items que são dependentes do Escalonador.</string>
   <string name="read_ahead">Read-ahead (ler antes)</string>
   <string name="read_ahead_summary">Valor Read-ahead na memória do aparelho.</string>
-  <string name="Internal_read_ahead">Read-ahead do Armazenamento Interno</string>
-  <string name="External_read_ahead">Read-ahead do Armazenamento Externo</string>
   <string name="ksm">Memória partilhada do kernel</string>
   <string name="ksm_stats">Estatísticas KSM</string>
   <string name="ksm_full_scans">Análises completas</string>

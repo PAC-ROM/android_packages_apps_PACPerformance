@@ -61,7 +61,9 @@
   <string name="turn_off_not_possible">Sie können Kern %d nicht ausschalten</string>
   <string name="parameters">Parametern</string>
   <string name="cpu_max_freq">CPU Maximale Frequenz</string>
+  <string name="cpu_max_freq_summary">Ändere die maximale Taktfrequenz der CPU.</string>
   <string name="cpu_min_freq">CPU Minimale Frequenz</string>
+  <string name="cpu_min_freq_summary">Ändere die minimale Taktfrequenz der CPU.</string>
   <string name="cpu_governor">CPU Governor</string>
   <string name="cpu_governor_summary">Der CPU Governor beschließt wie sich die CPU verhält bei Auslastungen. Die Änderung des Governors hat Auswirkungen wie die CPU sich zwischen Taktfrequenzen entscheidet.</string>
   <string name="advanced">Fortgeschritten</string>

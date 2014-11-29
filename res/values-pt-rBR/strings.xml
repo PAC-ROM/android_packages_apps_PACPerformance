@@ -61,8 +61,11 @@
   <string name="turn_off_not_possible">Você não pode desativar núcleo %d</string>
   <string name="parameters">Parâmetros</string>
   <string name="cpu_max_freq">Freqüência Máxima da CPU</string>
+  <string name="cpu_max_freq_summary">Definir a frequência máxima da CPU.</string>
   <string name="cpu_min_freq">Frequência Mínima da CPU</string>
+  <string name="cpu_min_freq_summary">Definir a frequência mínima da CPU.</string>
   <string name="cpu_governor">Governador da CPU</string>
+  <string name="cpu_governor_summary">A CPU governador determina como a CPU se comporta em resposta a mudanças na carga de trabalho. Alterar o governador terá um impacto como a CPU muda o frequência, através dos intervalos de frequência disponíveis para o CPU.</string>
   <string name="advanced">Avançado</string>
   <string name="cpu_governor_tunables">Ajustes do Governador da CPU</string>
   <string name="cpu_governor_tunables_summary">Os vários itens de configuração que são dependentes do Governador.</string>
@@ -78,6 +81,7 @@
   <string name="intelliplug_summary">Uma subistituição do MPDecision por faux123.</string>
   <string name="intelliplug_eco_mode">IntelliPlug Modo Eco</string>
   <string name="cpu_voltage">Voltagem de CPU</string>
+  <string name="apply">Aplicar</string>
   <string name="gpu">GPU</string>
   <string name="gpu_stats">Estatísticas da GPU</string>
   <string name="gpu_2d_cur_freq">Freqüência atual da GPU 2D</string>
@@ -101,6 +105,8 @@
   <string name="scheduler_tunable_summary">Os vários items que são dependentes do Escalonador.</string>
   <string name="read_ahead">Read-ahead (ler antes)</string>
   <string name="read_ahead_summary">Valor Read-ahead na memória do aparelho.</string>
+  <string name="internal_read_ahead">Read-ahead do Armazenamento Interno</string>
+  <string name="external_read_ahead">Read-ahead do Armazenamento Externo</string>
   <string name="ksm">Memória partilhada do kernel</string>
   <string name="ksm_stats">Estatísticas KSM</string>
   <string name="ksm_full_scans">Análises completas</string>
